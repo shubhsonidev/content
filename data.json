@@ -1,0 +1,93 @@
+[
+  {
+    "mainImage": "https://shubhsonidev.github.io/portfolio/assets/img/portfolio/app.jpeg",
+    "liveLink": "https://play.google.com/store/apps/details?id=com.haridarshanjewellers.app&pcampaignid=web_share",
+    "title": "APP for Jewellery ratailers"
+  },
+  {
+    "mainImage": "https://shubhsonidev.github.io/portfolio/assets/img/portfolio/loyalty.jpeg",
+    "title": "Loyalty Management",
+    "contact": true,
+    "tags": ["Angular", "API", "HTML5", "CSS"]
+  },
+  {
+    "mainImage": "https://shubhsonidev.github.io/portfolio/assets/img/portfolio/docit.png",
+    "liveLink": "https://documentit.netlify.app/",
+    "title": "DOCIT- No Code Documentation Webapp",
+    "tags": ["Angular", "API", "HTML5", "CSS"]
+  },
+  {
+    "mainImage": "https://shubhsonidev.github.io/portfolio/assets/img/portfolio/jewel.png",
+    "backendLink": "https://jewe-billing-backend.vercel.app/",
+    "title": "JEWELERA - Jewellery billing backend",
+    "tags": ["Angular", "API", "HTML5", "CSS"]
+  },
+  {
+    "mainImage": "https://shubhsonidev.github.io/portfolio/assets/img/portfolio/gappemaro.png",
+    "liveLink": "https://gappe-maro.netlify.app/login",
+    "title": "GappeMaro - Retro Chatting Webapp",
+    "tags": ["Angular", "API", "HTML5", "CSS"]
+  },
+  {
+    "mainImage": "https://shubhsonidev.github.io/portfolio/assets/img/portfolio/limo.png",
+    "gitLink": "https://github.com/shubhsonidev/linkerly",
+    "liveLink": "https://linkerly.netlify.app/main",
+    "title": "Linkerly - Link Shortening Service",
+    "tags": ["Angular", "API", "HTML5", "CSS"]
+  },
+  {
+    "mainImage": "https://shubhsonidev.github.io/portfolio/assets/img/portfolio/tech.png",
+    "gitLink": "https://github.com/shubhsonidev/techshorts",
+    "liveLink": "https://techieshorts.netlify.app/",
+    "title": "TechShorts - 20 words news",
+    "tags": ["Javascript", "React", "API", "HTML5", "CSS"]
+  },
+  {
+    "mainImage": "https://shubhsonidev.github.io/portfolio/assets/img/portfolio/ratechecker.png",
+    "gitLink": "https://github.com/shubhsonidev/rates-webapp/",
+    "liveLink": "https://metalrates.netlify.app/",
+    "title": "Gold & Silver Rates Webapp",
+    "tags": ["Javascript", "API", "HTML5", "CSS"]
+  },
+  {
+    "mainImage": "https://shubhsonidev.github.io/portfolio/assets/img/portfolio/portfolio.png",
+    "gitLink": "https://github.com/shubhsonidev/portfolio",
+    "liveLink": "https://shubhsonidev.github.io/portfolio/",
+    "title": "Portfolio",
+    "tags": ["Angular", "Typescript", "API", "HTML", "CSS"]
+  },
+  {
+    "mainImage": "https://shubhsonidev.github.io/portfolio/assets/img/portfolio/byajbook_webapp.png",
+    "liveLink": "https://byaj.app/login",
+    "title": "Byajbook Webapp",
+    "tags": ["Angular", "Typescript", "HTML", "CSS"]
+  },
+  {
+    "mainImage": "https://shubhsonidev.github.io/portfolio/assets/img/portfolio/byajbook_website.png",
+    "liveLink": "https://byajbook.com/",
+    "title": "Byajbook Website",
+    "tags": ["Angular", "Typescript", "HTML", "CSS"]
+  },
+  {
+    "mainImage": "https://shubhsonidev.github.io/portfolio/assets/img/portfolio/fivefilter_website.png",
+    "liveLink": "https://fivefilter.com/",
+    "title": "FiveFiter eSports Website",
+    "tags": ["Angular", "HTML", "CSS"]
+  },
+  {
+    "mainImage": "https://shubhsonidev.github.io/portfolio/assets/img/portfolio/fivefilter_webapp.png",
+    "liveLink": "https://fivefilter.com/",
+    "title": "ESports Tournament Manager",
+    "tags": ["Angular", "Typescript", "API", "Discord Bots"]
+  },
+  {
+    "mainImage": "https://shubhsonidev.github.io/portfolio/assets/img/portfolio/mahi925_website.png",
+    "title": "Mahi925 Silver Website",
+    "tags": ["Angular", "HTML", "CSS"]
+  },
+  {
+    "mainImage": "https://shubhsonidev.github.io/portfolio/assets/img/portfolio/scheme.png",
+    "title": "11+1 Gold scheme Management",
+    "tags": ["Javascript", "Appscript", "API", "HTML5", "CSS"]
+  }
+]
